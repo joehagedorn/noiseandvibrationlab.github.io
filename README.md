@@ -10,7 +10,7 @@
 - BIM Model Network and AV object specifications
 
 ## Research:
-# IoT End Point Programming
+# BIM Modeling
 -[Censeo Team](https://www.censeo.design)
 -[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
 -[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
