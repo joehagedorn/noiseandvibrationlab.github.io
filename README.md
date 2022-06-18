@@ -1,5 +1,5 @@
 ## CENSEO Noiselab Applied Research
-# BIM Project IoT Views
+# BIM Project Topics
 1. Construction Administration Services
 - IoT Support
 2. Private API 
